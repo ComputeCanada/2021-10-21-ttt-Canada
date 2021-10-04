@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "Canada"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "Oct 21-22"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "October 21-22"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm Central Time"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-10-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-20-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
