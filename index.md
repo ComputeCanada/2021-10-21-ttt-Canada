@@ -16,7 +16,7 @@ locations:
   - venue: "Online"
     address: ""
 
-  - venue: "Online"
+  - venue: ""
     address: "Room A, 123 Forth Street, Blimingen, Euphoria"
     latlng: "41.7901128,-87.6007318"
 
