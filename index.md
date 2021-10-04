@@ -14,11 +14,11 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: ""
+    #address: ""
 
-  - venue: ""
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
+  #- venue: ""
+   # address: "Room A, 123 Forth Street, Blimingen, Euphoria"
+    #latlng: "41.7901128,-87.6007318"
 
 ---
 
